@@ -13,6 +13,8 @@ items.dat           contains all items, including spell scrolls
 
 monsters.dat        contains all monsters, including pets
 
+races.dat           contains all starting class data (not in the original fate)
+
 quests.dat          contains all quests
 
 spells.dat          contains all spell projectiles and effects
